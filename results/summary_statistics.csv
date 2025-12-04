@@ -1,0 +1,5 @@
+Strategy,Avg Search Time (ms),Std Search Time (ms),Min Score,Max Score,Avg Score,Median Score,Total Queries
+BOOLEAN,0.28,0.48,1.0000,1.0000,1.0000,1.0000,55
+TFIDF,0.50,0.71,0.0938,0.9713,0.3398,0.3138,55
+BM25,0.37,0.59,2.4149,17.0244,6.7203,6.5303,55
+COSINE,3.50,2.14,0.0826,0.4801,0.2660,0.2710,55
